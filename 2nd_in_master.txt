@@ -1,7 +1,6 @@
+
 2nd
 2nd..
-<<<<<<< HEAD
 2nd now added in branch2 only.. :)
-=======
-To be added in branch : prod_release
->>>>>>> 1st_branch
+Now, Earlier all changes omitted intentionally.. 
+
